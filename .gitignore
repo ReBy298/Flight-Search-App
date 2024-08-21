@@ -57,4 +57,4 @@
 ./Back-End/flight-search/.nb-gradle/
 
 ### VS Code ###
-.vscode/
+./Back-End/flight-search/.vscode/
