@@ -1,3 +1,6 @@
 [submodule "Front-End/flight-search"]
 	path = Front-End/flight-search
 	url = git@github.com:ReBy298/Front-End-Flight-Search.git
+[submodule "Back-End/flight-search"]
+	path = Back-End/flight-search
+	url = git@github.com:ReBy298/Back-End-Flight-Search.git
